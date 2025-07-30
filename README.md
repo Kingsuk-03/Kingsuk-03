@@ -9,6 +9,6 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kingsuk-03&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![Kingsuk-03's Stats](https://github-readme-stats.vercel.app/api?username=Kingsuk-03&theme=react&show_icons=true&hide_border=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Kingsuk-03&theme=github_dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kingsuk-03&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![Kingsuk-03's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kingsuk-03&theme=react&show_icons=true&hide_border=false&layout=compact)
