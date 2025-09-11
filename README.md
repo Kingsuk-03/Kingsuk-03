@@ -1,6 +1,7 @@
 # 💫 Hey There! I'm Kingsuk👋🏻
 
-🔭 I’m currently working on Full-Stack Applications.<br>🌱 I’m currently learning modern web frameworks & libraries, backend optimization, etc.<br>💬 Ask me about WebDev, MERN.<br>⚡ Fun fact I have little bit OCD with my belongings.
+🔭 I’m currently working on Full-Stack Applications.<br>🌱 I’m currently learning modern web frameworks & libraries, backend optimization, etc.<br>💬 Ask me about WebDev, MERN.<br>⚡ Fun fact I have little bit OCD with my belongings. <br> 💻 Portfolio: <b>[kingsukbose.vercel.app](https://kingsukbose.vercel.app/)
+
 
 
 # 💻 Things I code with:
